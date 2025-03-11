@@ -1,0 +1,21 @@
+2025-03-11 02:11:38,602 - Downloading chromedriver (134.0.6998.88)...
+2025-03-11 02:11:40,788 - The chromedriver version (134.0.6998.88) detected in PATH at C:\Users\pcc\AppData\Roaming\Python\Python311\site-packages\chromedriver_autoinstaller\134\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.143); currently, chromedriver 133.0.6943.141 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-03-11 02:11:44,313 - Chromedriver is already installed.
+2025-03-11 02:11:44,640 - The chromedriver version (134.0.6998.88) detected in PATH at C:\Users\pcc\AppData\Roaming\Python\Python311\site-packages\chromedriver_autoinstaller\134\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.143); currently, chromedriver 133.0.6943.141 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-03-11 02:11:48,102 - Chromedriver is already installed.
+2025-03-11 02:11:48,512 - The chromedriver version (134.0.6998.88) detected in PATH at C:\Users\pcc\AppData\Roaming\Python\Python311\site-packages\chromedriver_autoinstaller\134\chromedriver.exe might not be compatible with the detected chrome version (133.0.6943.143); currently, chromedriver 133.0.6943.141 is recommended for chrome 133.*, so it is advised to delete the driver in PATH and retry
+2025-03-11 02:13:53,361 - Chromedriver is already installed.
+2025-03-11 02:13:59,184 - Chromedriver is already installed.
+2025-03-11 02:14:05,334 - Chromedriver is already installed.
+2025-03-11 02:22:22,447 - Chromedriver is already installed.
+2025-03-11 02:22:26,659 - Chromedriver is already installed.
+2025-03-11 02:22:30,774 - Chromedriver is already installed.
+2025-03-11 02:26:04,729 - Chromedriver is already installed.
+2025-03-11 02:26:19,062 - Chromedriver is already installed.
+2025-03-11 02:26:33,173 - Chromedriver is already installed.
+2025-03-11 02:28:41,684 - Chromedriver is already installed.
+2025-03-11 02:28:55,917 - Chromedriver is already installed.
+2025-03-11 02:29:09,773 - Chromedriver is already installed.
+2025-03-11 02:34:07,319 - Chromedriver is already installed.
+2025-03-11 02:34:21,171 - Chromedriver is already installed.
+2025-03-11 02:34:35,269 - Chromedriver is already installed.
